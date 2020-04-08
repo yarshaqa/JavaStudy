@@ -1,0 +1,7 @@
+.idea
+*.iml
+target
+allure-results
+.DS_Store
+/run.properties
+
