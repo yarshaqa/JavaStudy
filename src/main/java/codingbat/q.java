@@ -6,11 +6,17 @@ import java.lang.Math;
 public class q {
     public static void main(String[] args) {
 
-        int a = 312;
-        int b = 111;
-        boolean inRange = false;
-        if (a >10 && a < 20 || b>10 && b<20){
-            System.out.println(inRange);
+        int n = 90;
+        boolean e = true;
+
+
+        if (((Math.abs(100 - n) <= 10) || (Math.abs(200 - n) <= 10))) {
+
+            System.out.println(e);
+
+        } else {
+            System.out.println(!e);
         }
+    }
 }
-}
+
