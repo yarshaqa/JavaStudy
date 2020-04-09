@@ -3,7 +3,7 @@ package codingbat;
 import java.lang.Math;
 
 
-public class q {
+public class MathMetod {
     public static void main(String[] args) {
 
         int n = 90;

@@ -1,6 +1,6 @@
 package codingbat;
 
-public class loneTeen {
+public class LoneTeen {
 
 
     public boolean loneTeen(int a, int b) {

@@ -1,6 +1,6 @@
 package codingbat;
 
-public class in1020 {
+public class In1020 {
 
 
 

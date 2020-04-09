@@ -1,6 +1,6 @@
 package codingbat;
 
-public class rt {
+public class Close10reffer {
 
     public static void main(String[] args) {
 

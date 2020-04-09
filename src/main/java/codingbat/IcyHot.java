@@ -1,6 +1,6 @@
 package codingbat;
 
-public class icyHot {
+public class IcyHot {
 
 
     public boolean icyHot(int temp1, int temp2) {

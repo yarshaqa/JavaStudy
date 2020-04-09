@@ -1,6 +1,6 @@
 package codingbat;
 
-public class nearHundred {
+public class NearHundred {
 
 
     public boolean nearHundred(int n) {

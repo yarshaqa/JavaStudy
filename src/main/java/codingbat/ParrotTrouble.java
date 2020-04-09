@@ -1,6 +1,6 @@
 package codingbat;
 
-public class parrotTrouble {
+public class ParrotTrouble {
 
     public boolean parrotTrouble(boolean talking, int hour) {
 

@@ -1,6 +1,6 @@
 package codingbat;
 
-public class max1020 {
+public class Max1020 {
 
 
 }

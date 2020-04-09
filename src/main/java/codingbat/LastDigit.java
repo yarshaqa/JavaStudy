@@ -1,6 +1,6 @@
 package codingbat;
 
-public class lastDigit {
+public class LastDigit {
 
 
     public boolean lastDigit(int a, int b) {
