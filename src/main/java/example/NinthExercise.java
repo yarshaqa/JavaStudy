@@ -4,7 +4,7 @@ public class NinthExercise {
 
     public static void main(String[] args) {
 
-        String[][] mas = new String[6][5];
+        String[][] mas = new String[5][10];
         String a = "*";
 
 
@@ -13,7 +13,7 @@ public class NinthExercise {
 
 
         for (u = 0; u < mas.length; u++){
-            for(y = 0; y < mas.length-1; y++){
+            for(y = 0; y < u+1 ; y++){
 
                 mas[u][y] = a;
                 System.out.print(mas[u][y]);

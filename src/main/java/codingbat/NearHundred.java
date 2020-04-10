@@ -8,11 +8,11 @@ public class NearHundred {
 
         boolean e = true;
 
-        if (((Math.abs(100 - n) <=10 ) || (Math.abs(200-n) <=10))){
+        if (((Math.abs(100 - n) <= 10) || (Math.abs(200 - n) <= 10))) {
 
             return e;
-        }
-        else {return !e;
+        } else {
+            return !e;
 
         }
 

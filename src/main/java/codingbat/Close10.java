@@ -4,20 +4,14 @@ public class Close10 {
 
     public int close10(int a, int b) {
 
-        int c =(Math.abs(a-10));
-        int v =(Math.abs(b-10));
+        int c = (Math.abs(a - 10));
+        int v = (Math.abs(b - 10));
 
-        if ( c>v ){
+        if (c > v) {
             return b;
-        }
-
-
-        else if (c<v){
+        } else if (c < v) {
             return a;
-        }
-
-
-        else{
+        } else {
             return 0;
         }
     }

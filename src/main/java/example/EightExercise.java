@@ -12,7 +12,7 @@ public class EightExercise {
         int u;
         int y;
         for (u = 0; u < arr.length; u++) {
-            for (y = 0; y < arr.length; y++) {
+            for (y = 0; y < arr[u].length; y++) {
 
                 arr[u][y] = i;
 

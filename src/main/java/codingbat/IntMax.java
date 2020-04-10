@@ -7,15 +7,14 @@ public class IntMax {
 
         int max;
 
-        if(a>b){
+        if (a > b) {
             max = a;
-        }
-        else {
+        } else {
 
             max = b;
         }
 
-        if (c>max){
+        if (c > max) {
             return c;
         }
         return max;
